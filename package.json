@@ -1,0 +1,14 @@
+{
+  "name": "simple-server-starter-kit",
+  "version": "1.0.0",
+  "description": "Simple starter kit for WebServer on ExpressJS",
+  "main": "index.js",
+  "repository": "https://github.com/aibolik/simple-server-starter-kit",
+  "author": "Aibol Kussain <aibolikdev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  }
+}
